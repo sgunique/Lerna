@@ -1,5 +1,5 @@
 import React from "react";
 
 export function Header() {
-  return <header>Lerna is the original monorepo tool! version 5</header>;
+  return <header>Lerna is the original monorepo tool! version 6</header>;
 }
