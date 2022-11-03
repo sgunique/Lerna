@@ -1,5 +1,5 @@
 import React from "react";
 
 export function Footer() {
-  return <footer>Footer lerna verion 4</footer>;
+  return <footer>Footer lerna verion 5</footer>;
 }
